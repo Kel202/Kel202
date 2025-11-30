@@ -18,7 +18,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently studying Informatics.
+- 🔭  I hold a BCom Informatics degree with a major in Information Systems.
 
 
 - 🌱 I’m a SOC Analyst and a passionate Cloud engineer.
